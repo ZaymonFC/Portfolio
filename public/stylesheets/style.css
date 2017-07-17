@@ -42,10 +42,12 @@ a {
 #header{
   max-width:36em;
   margin:auto;
+  margin-bottom: 200px;
 }
 
-.content1{
+.contentOuter{
   border: 3px dashed #F6F4D2;
+  margin-bottom: 50px;
 }
 
 .content-group{
@@ -58,6 +60,18 @@ a {
   list-style: none;
 }
 
-.floater{
+/*.content-header{
   position:absolute;
+}*/
+
+.content-header{
+  padding-bottom: 10px;
 }
+.content-icon{
+  position: absolute;
+}
+.content-text{
+  position: relative;
+  margin-left: 45px;
+}
+
