@@ -3,7 +3,9 @@ body {
   font-family: 'Ropa Sans', sans-serif;
   color: #F6F4D2;
   background: #282a36;
-  width: 80%;
+  width: 85%;
+  max-width: 1366px;
+  min-width: 320px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -31,7 +33,7 @@ a {
   display: block;
 }
 
-#aboutMe{
+#about-me{
   width: 400px;
 }
 
@@ -39,13 +41,13 @@ a {
   border-radius: 50%;
 }
 
-#header{
+#header-content{
   max-width:36em;
   margin:auto;
   margin-bottom: 200px;
 }
 
-.contentOuter{
+.content-outer{
   border: 3px dashed #F6F4D2;
   margin-bottom: 50px;
 }
@@ -65,13 +67,15 @@ a {
 }*/
 
 .content-header{
-  padding-bottom: 10px;
+  padding-bottom: 15px;
+  margin-left:8px;
 }
 .content-icon{
   position: absolute;
 }
 .content-text{
   position: relative;
-  margin-left: 45px;
+  margin-left: 50px;
+  padding-top: 4px;
 }
 
