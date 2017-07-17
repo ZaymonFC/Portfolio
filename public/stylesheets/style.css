@@ -4,7 +4,7 @@ body {
   color: #F6F4D2;
   background: #282a36;
   width: 85%;
-  max-width: 1366px;
+  max-width: 1200px;
   min-width: 320px;
   margin-left: auto;
   margin-right: auto;
@@ -14,10 +14,17 @@ a {
   color: #F6F4D2;
 }
 
-.typed{
-  display:block;
-  height: 40px;
+.typed-outer{
+  display: block;
+  height: 38px;
+  width: 370px;
+  background-color: #1F2028;
 }
+
+.typed{
+  padding: 5px;
+}
+
 
 .separator{
   margin-top: 8px;
@@ -90,5 +97,11 @@ a {
   position: relative;
   margin-left: 50px;
   padding-top: 4px;
+}
+
+.footer{
+  text-align: center;
+  border-width: 2px;
+  margin-bottom: 20px;
 }
 
