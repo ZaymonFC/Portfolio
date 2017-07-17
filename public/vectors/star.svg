@@ -1,0 +1,31 @@
+<svg width="70" height="64" viewBox="0 0 70 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>star</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(0.5 0 0 0.5 151 132.5)">
+<g id="star">
+<g id="Polygon">
+<mask id="mask0_outline_ins">
+<use xlink:href="#path0_fill" fill="white" transform="translate(-302 -265)"/>
+</mask>
+<g mask="url(#mask0_outline_ins)">
+<use xlink:href="#path1_stroke_2x" transform="translate(-302 -265)" fill="#F6F4D2"/>
+</g>
+</g>
+<g id="Ellipse">
+<mask id="mask1_outline_out">
+<rect id="mask1_outline_inv" fill="white" x="-4" y="-4" width="49" height="49" transform="translate(-252.785 -201)"/>
+<use xlink:href="#path2_fill" fill="black" transform="translate(-252.785 -201)"/>
+</mask>
+<g mask="url(#mask1_outline_out)">
+<use xlink:href="#path3_stroke_2x" transform="translate(-252.785 -201)" fill="#F6F4D2"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 69.715 0L 139.43 126.75L 0 126.75L 69.715 0Z"/>
+<path id="path1_stroke_2x" d="M 1.00458 128.479L 52.2196 98.7294L 50.2105 95.2706L -1.00458 125.021L 1.00458 128.479ZM 140.435 125.021L 89.2196 95.2706L 87.2105 98.7294L 138.426 128.479L 140.435 125.021ZM 67.715 0L 67.715 62.5L 71.715 62.5L 71.715 0L 67.715 0ZM 69.715 0L 73.2199 -1.92773L 69.715 -8.29992L 66.2102 -1.92773L 69.715 0ZM 139.43 126.75L 139.43 130.75L 146.195 130.75L 142.935 124.822L 139.43 126.75ZM 0 126.75L -3.50483 124.822L -6.7652 130.75L 0 130.75L 0 126.75ZM 66.2102 1.92773L 135.925 128.678L 142.935 124.822L 73.2199 -1.92773L 66.2102 1.92773ZM 139.43 122.75L 0 122.75L 0 130.75L 139.43 130.75L 139.43 122.75ZM 3.50483 128.678L 73.2199 1.92773L 66.2102 -1.92773L -3.50483 124.822L 3.50483 128.678Z"/>
+<path id="path2_fill" d="M 41 20.5C 41 31.8218 31.8218 41 20.5 41C 9.17816 41 0 31.8218 0 20.5C 0 9.17816 9.17816 0 20.5 0C 31.8218 0 41 9.17816 41 20.5Z"/>
+<path id="path3_stroke_2x" d="M 37 20.5C 37 29.6127 29.6127 37 20.5 37L 20.5 45C 34.031 45 45 34.031 45 20.5L 37 20.5ZM 20.5 37C 11.3873 37 4 29.6127 4 20.5L -4 20.5C -4 34.031 6.96902 45 20.5 45L 20.5 37ZM 4 20.5C 4 11.3873 11.3873 4 20.5 4L 20.5 -4C 6.96902 -4 -4 6.96902 -4 20.5L 4 20.5ZM 20.5 4C 29.6127 4 37 11.3873 37 20.5L 45 20.5C 45 6.96902 34.031 -4 20.5 -4L 20.5 4Z"/>
+</defs>
+</svg>

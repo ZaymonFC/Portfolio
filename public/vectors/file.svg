@@ -1,0 +1,24 @@
+<svg width="53" height="75" viewBox="0 0 53 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>file</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(0.5 0 0 0.5 214 138.5)">
+<g id="file">
+<g id="Vector">
+<use xlink:href="#path0_stroke" transform="translate(-426 -275)" fill="#F6F4D2"/>
+</g>
+<g id="Vector 2">
+<use xlink:href="#path1_stroke" transform="translate(-408 -236.5)" fill="#F6F4D2"/>
+</g>
+<g id="Vector 2">
+<use xlink:href="#path1_stroke" transform="translate(-408 -157.5)" fill="#F6F4D2"/>
+</g>
+<g id="Vector 2">
+<use xlink:href="#path1_stroke" transform="translate(-408 -197.5)" fill="#F6F4D2"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_stroke" d="M 0 26L -0.817483 24.7423L -1.5 25.186L -1.5 26L 0 26ZM 0 145.5L -1.5 145.5L -1.5 147L 0 147L 0 145.5ZM 101 145.5L 101 147L 102.5 147L 102.5 145.5L 101 145.5ZM 101 0L 102.5 0L 102.5 -1.5L 101 -1.5L 101 0ZM 40 0L 40 -1.5L 39.5553 -1.5L 39.1825 -1.25767L 40 0ZM -1.5 26L -1.5 145.5L 1.5 145.5L 1.5 26L -1.5 26ZM 0 147L 101 147L 101 144L 0 144L 0 147ZM 102.5 145.5L 102.5 0L 99.5 0L 99.5 145.5L 102.5 145.5ZM 101 -1.5L 40 -1.5L 40 1.5L 101 1.5L 101 -1.5ZM 39.1825 -1.25767L -0.817483 24.7423L 0.817483 27.2577L 40.8175 1.25767L 39.1825 -1.25767Z"/>
+<path id="path1_stroke" d="M 0 2L 65 2L 65 -2L 0 -2L 0 2Z"/>
+</defs>
+</svg>
