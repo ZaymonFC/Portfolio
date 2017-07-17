@@ -19,6 +19,12 @@ a {
   height: 40px;
 }
 
+.separator{
+  margin-top: 8px;
+  margin-bottom: 8px;
+  border-bottom: 1px solid #F6F4D2;
+}
+
 .floatLeft
 {
   float: left;
@@ -41,15 +47,22 @@ a {
   border-radius: 50%;
 }
 
-#header-content{
+.header-content{
   max-width:36em;
   margin:auto;
-  margin-bottom: 200px;
 }
+
+.heading{
+  display: block;
+  position: relative;
+  height: 450px;
+}
+
 
 .content-outer{
   border: 3px dashed #F6F4D2;
   margin-bottom: 50px;
+  position: relative;
 }
 
 .content-group{
