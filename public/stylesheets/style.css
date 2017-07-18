@@ -17,8 +17,9 @@ a {
 .typed-outer{
   display: block;
   height: 38px;
-  width: 370px;
+  width: 380px;
   background-color: #1F2028;
+  border-radius:2px;
 }
 
 .typed{
@@ -55,14 +56,26 @@ a {
 }
 
 .header-content{
-  max-width:36em;
+  max-width:600px;
   margin:auto;
+  overflow:hidden;
+}
+
+.header-image{
+  margin-top:30px;
+}
+@media (max-width:640px){
+  .header-image{
+    margin-left:auto;
+    margin-right:auto;
+    float: none;
+    }
 }
 
 .heading{
+  height: auto;
   display: block;
-  position: relative;
-  height: 450px;
+  padding-bottom: 30px;
 }
 
 
@@ -70,6 +83,7 @@ a {
   border: 3px dashed #F6F4D2;
   margin-bottom: 50px;
   position: relative;
+  display: block;
 }
 
 .content-group{
@@ -103,5 +117,6 @@ a {
   text-align: center;
   border-width: 2px;
   margin-bottom: 20px;
+  border-radius:5px;
 }
 
