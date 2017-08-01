@@ -91,9 +91,12 @@ a {
   margin-right: 10px;
 }
 
-.content-group li {
-  padding: 4px;
+.content-block {
+  padding:1px;
+  margin-left:5%;
+  margin-right:auto;
   list-style: none;
+  margin-bottom: 30px;
 }
 
 /*.content-header{
@@ -110,7 +113,7 @@ a {
 .content-text{
   position: relative;
   margin-left: 50px;
-  padding-top: 4px;
+  padding-top: 5px;
 }
 
 .footer{
